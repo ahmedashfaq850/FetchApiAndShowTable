@@ -1,0 +1,16 @@
+.img{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+img{
+    padding: 20px;
+}
+
+table, td, th {
+    border: 1px solid black;
+  }
+
+.container{
+    margin: 50px;
+}
